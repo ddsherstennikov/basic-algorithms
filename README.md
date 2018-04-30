@@ -1,2 +1,4 @@
-# basic-algorithms
-Basic algorithmic tasks unattached to any coding challenges site.
+Basic algorithms
+
+* courses in 2012
+* self-training 2017
